@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.log
+cifar10/
+logs/
+.venv/
